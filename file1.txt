@@ -1,3 +1,5 @@
+Now REMOTE modification here!
+
 This is file1.txt - LOCAL modification
 
 This is the second line of file1.txt LOCAL mofication on this line as well
