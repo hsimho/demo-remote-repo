@@ -11,4 +11,4 @@ This is file1.txt - LOCAL modification
 This is the second line of file1.txt LOCAL mofication on this line as well
 This is the second line of file1.txt - REMOTE modification on this line
 
-Now LOCAL modification here!
+Now LOCAL modification here!....
