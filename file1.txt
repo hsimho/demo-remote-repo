@@ -1,5 +1,8 @@
 Now we make some modifications in main
 Some other modifications in main
+The first modification in develop branch
+The second modification in develop
+The third modification in develop
 
 Now REMOTE modification here!
 
