@@ -1,3 +1,5 @@
+Now we make some modifications in main
+
 Now REMOTE modification here!
 
 This is file1.txt - LOCAL modification
